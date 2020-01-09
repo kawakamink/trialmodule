@@ -1,0 +1,15 @@
+{
+  "name": "extendingpuppet-trialmodule",
+  "version": "0.1.0",
+  "author": "extendingpuppet",
+  "summary": "A trial module",
+  "license": "Apache-2.0",
+  "source": "https://github.com/kawakamink/trialmodule.git",
+  "project_page": "https://example.com",
+  "issues_url": "https://example.com",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
